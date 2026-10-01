@@ -1,0 +1,2 @@
+# premium-glass-fuse-001-glass-fusing-kiln-schedule-man
+Built for traditional-glass-cutting professionals who are tired of spending hours building a system before you can actually use it.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Glass Fusing Kiln Schedule — fully configure
